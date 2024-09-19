@@ -19,15 +19,19 @@ body {
 .box-head {
 	display: flex;
 	align-items: center;
+	justify-content: space-between;
+	padding-bottom: 16px;
 }
 
 .box-head h2 {
 	font-size: 35px;
+	padding-left: 4px;
 }
 
 .box-head img {
 	width: 52px;
 	margin-left: 11px;
+	padding-right: 8px;
 }
 
 .row {
